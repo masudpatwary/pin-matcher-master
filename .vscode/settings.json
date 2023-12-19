@@ -1,0 +1,5 @@
+{
+    "html.format.wrapLineLength": 150,
+    "git.inputValidationSubjectLength": 80,
+    "cSpell.minWordLength": 8
+}
